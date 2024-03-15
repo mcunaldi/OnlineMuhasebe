@@ -37,6 +37,7 @@ builder.Services.AddSwaggerGen(setup =>
                 });
 });
 
+
 var app = builder.Build();
 
 if (app.Environment.IsDevelopment())
