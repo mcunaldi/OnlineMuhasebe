@@ -10,3 +10,4 @@ C:\Users\W10\Desktop\GITHUB\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeSe
 C:\Users\W10\Desktop\GITHUB\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Presentation\obj\Debug\net8.0\refint\OnlineMuhasebeServer.Presentation.dll
 C:\Users\W10\Desktop\GITHUB\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Presentation\obj\Debug\net8.0\OnlineMuhasebeServer.Presentation.pdb
 C:\Users\W10\Desktop\GITHUB\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Presentation\obj\Debug\net8.0\ref\OnlineMuhasebeServer.Presentation.dll
+C:\Users\W10\Desktop\GITHUB\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Presentation\obj\Debug\net8.0\OnlineMuhasebeServer.Presentation.sourcelink.json
