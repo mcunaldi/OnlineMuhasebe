@@ -1,4 +1,4 @@
-﻿using OnlineMuhasebeServer.Application.Features.AppFeatures.Company.CompanyFeatures.Command.CreateCompany;
+﻿using OnlineMuhasebeServer.Application.Features.AppFeatures.CompanyFeatures.Command.CreateCompany;
 using OnlineMuhasebeServer.Domain.AppEntities;
 
 namespace OnlineMuhasebeServer.Application.Services.AppService;

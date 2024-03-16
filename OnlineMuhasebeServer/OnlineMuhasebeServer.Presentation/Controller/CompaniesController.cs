@@ -1,7 +1,7 @@
 ﻿using MediatR;
 using Microsoft.AspNetCore.Mvc;
-using OnlineMuhasebeServer.Application.Features.AppFeatures.Company.CompanyFeatures.Command.CreateCompany;
-using OnlineMuhasebeServer.Application.Features.AppFeatures.Company.CompanyFeatures.Command.MigrateCompanyDatabase;
+using OnlineMuhasebeServer.Application.Features.AppFeatures.CompanyFeatures.Command.CreateCompany;
+using OnlineMuhasebeServer.Application.Features.AppFeatures.CompanyFeatures.Command.MigrateCompanyDatabases;
 using OnlineMuhasebeServer.Presentation.Abstraction;
 
 namespace OnlineMuhasebeServer.Presentation.Controller;

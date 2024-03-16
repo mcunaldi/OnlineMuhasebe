@@ -9,7 +9,7 @@
     "Parameters": [
       {
         "Name": "request",
-        "Type": "OnlineMuhasebeServer.Application.Features.AppFeatures.Company.CompanyFeatures.Command.CreateCompany.CreateCompanyRequest",
+        "Type": "OnlineMuhasebeServer.Application.Features.AppFeatures.CompanyFeatures.Command.CreateCompany.CreateCompanyRequest",
         "IsRequired": true
       }
     ],
@@ -23,6 +23,22 @@
     "IsController": true,
     "Order": 0,
     "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnlineMuhasebeServer.Presentation.Controller.UCAFsController",
+    "Method": "CreateUCAF",
+    "RelativePath": "api/UCAFs/CreateUCAF",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "OnlineMuhasebeServer.Application.Features.CompanyFeatures.UCAFFeatures.Command.CreateUCAF.CreateUCAFRequest",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": []
   }
 ]

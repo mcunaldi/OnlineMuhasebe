@@ -1,7 +1,7 @@
 ﻿using MediatR;
 using OnlineMuhasebeServer.Application.Services.AppService;
 
-namespace OnlineMuhasebeServer.Application.Features.AppFeatures.Company.CompanyFeatures.Command.MigrateCompanyDatabase;
+namespace OnlineMuhasebeServer.Application.Features.AppFeatures.CompanyFeatures.Command.MigrateCompanyDatabases;
 public sealed class MigrateCompanyDatabasesHandler(
     ICompanyService companyService) : IRequestHandler<MigrateCompanyDatabasesRequest, MigrateCompanyDatabasesResponse>
 {

@@ -1,6 +1,6 @@
 ﻿using MediatR;
 
-namespace OnlineMuhasebeServer.Application.Features.AppFeatures.Company.CompanyFeatures.Command.CreateCompany;
+namespace OnlineMuhasebeServer.Application.Features.AppFeatures.CompanyFeatures.Command.CreateCompany;
 public sealed record CreateCompanyRequest(
 string Name,
 string ServerName,

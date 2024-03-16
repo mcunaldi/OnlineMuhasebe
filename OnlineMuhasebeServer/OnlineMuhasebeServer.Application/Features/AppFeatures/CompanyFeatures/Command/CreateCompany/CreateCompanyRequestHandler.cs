@@ -1,7 +1,7 @@
 ﻿using MediatR;
 using OnlineMuhasebeServer.Application.Services.AppService;
 
-namespace OnlineMuhasebeServer.Application.Features.AppFeatures.Company.CompanyFeatures.Command.CreateCompany;
+namespace OnlineMuhasebeServer.Application.Features.AppFeatures.CompanyFeatures.Command.CreateCompany;
 public sealed class CreateCompanyRequestHandler(ICompanyService companyService) : IRequestHandler<CreateCompanyRequest, CreateCompanyResponse>
 {
     public async Task<CreateCompanyResponse> Handle(CreateCompanyRequest request, CancellationToken cancellationToken)

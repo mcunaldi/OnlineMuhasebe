@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
 using Microsoft.EntityFrameworkCore;
-using OnlineMuhasebeServer.Application.Features.AppFeatures.Company.CompanyFeatures.Command.CreateCompany;
+using OnlineMuhasebeServer.Application.Features.AppFeatures.CompanyFeatures.Command.CreateCompany;
 using OnlineMuhasebeServer.Application.Services.AppService;
 using OnlineMuhasebeServer.Domain.AppEntities;
 using OnlineMuhasebeServer.Persistance.Context;
