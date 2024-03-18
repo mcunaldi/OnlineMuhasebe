@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "OnlineMuhasebeServer.Presentation.Controller.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "OnlineMuhasebeServer.Application.Features.AppFeatures.AppUserFeatures.Login.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "OnlineMuhasebeServer.Presentation.Controller.CompaniesController",
     "Method": "Create",
     "RelativePath": "api/Companies/Create",

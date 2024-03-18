@@ -10,3 +10,9 @@ C:\Users\W10\Desktop\GITHUB\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeSe
 C:\Users\W10\Desktop\GITHUB\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Infrastructure\obj\Debug\net8.0\refint\OnlineMuhasebeServer.Infrastructure.dll
 C:\Users\W10\Desktop\GITHUB\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Infrastructure\obj\Debug\net8.0\OnlineMuhasebeServer.Infrastructure.pdb
 C:\Users\W10\Desktop\GITHUB\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Infrastructure\obj\Debug\net8.0\ref\OnlineMuhasebeServer.Infrastructure.dll
+C:\Users\W10\Desktop\GITHUB\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Infrastructure\bin\Debug\net8.0\OnlineMuhasebeServer.Application.dll
+C:\Users\W10\Desktop\GITHUB\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Infrastructure\bin\Debug\net8.0\OnlineMuhasebeServer.Domain.dll
+C:\Users\W10\Desktop\GITHUB\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Infrastructure\bin\Debug\net8.0\OnlineMuhasebeServer.Application.pdb
+C:\Users\W10\Desktop\GITHUB\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Infrastructure\bin\Debug\net8.0\OnlineMuhasebeServer.Domain.pdb
+C:\Users\W10\Desktop\GITHUB\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Infrastructure\obj\Debug\net8.0\OnlineMuhasebeServer.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\W10\Desktop\GITHUB\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Infrastructure\obj\Debug\net8.0\OnlineMu.A9A7C6FC.Up2Date

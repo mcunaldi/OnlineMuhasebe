@@ -12,6 +12,7 @@
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.3",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.3",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.3",
+          "OnlineMuhasebeServer.Infrastructure": "1.0.0",
           "OnlineMuhasebeServer.Persistance": "1.0.0",
           "OnlineMuhasebeServer.Presentation": "1.0.0",
           "Swashbuckle.AspNetCore": "6.4.0"
@@ -1148,6 +1149,15 @@
           "OnlineMuhasebeServer.Domain.dll": {}
         }
       },
+      "OnlineMuhasebeServer.Infrastructure/1.0.0": {
+        "dependencies": {
+          "OnlineMuhasebeServer.Application": "1.0.0",
+          "OnlineMuhasebeServer.Domain": "1.0.0"
+        },
+        "runtime": {
+          "OnlineMuhasebeServer.Infrastructure.dll": {}
+        }
+      },
       "OnlineMuhasebeServer.Persistance/1.0.0": {
         "dependencies": {
           "AutoMapper": "13.0.1",
@@ -1933,6 +1943,11 @@
       "sha512": ""
     },
     "OnlineMuhasebeServer.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OnlineMuhasebeServer.Infrastructure/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

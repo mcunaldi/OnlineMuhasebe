@@ -1,73 +1,16 @@
 using Microsoft.AspNetCore.Authentication.JwtBearer;
-using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.OpenApi.Models;
-using OnlineMuhasebeServer.Application.Services.AppService;
-using OnlineMuhasebeServer.Application.Services.CompanyService;
-using OnlineMuhasebeServer.Domain;
 using OnlineMuhasebeServer.Domain.AppEntities.Identity;
-using OnlineMuhasebeServer.Domain.Repositories.UCAFRepositories;
-using OnlineMuhasebeServer.Persistance;
 using OnlineMuhasebeServer.Persistance.Context;
-using OnlineMuhasebeServer.Persistance.Repositories.UCAFRepositories;
-using OnlineMuhasebeServer.Persistance.Services.AppServices;
-using OnlineMuhasebeServer.Persistance.Services.CompanyServices;
+using OnlineMuhasebeServer.WebAPI.Configurations;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddDbContext<AppDbContext>(options=>
-{
-    options.UseSqlServer(builder.Configuration.GetConnectionString("SqlServer"));
-});
+builder.Services
+    .InstallServices(builder.Configuration, typeof(IServiceInstaller).Assembly);
 
-builder.Services.AddIdentity<AppUser, AppRole>()
-    .AddEntityFrameworkStores<AppDbContext>();
-
-builder.Services.AddScoped<ICompanyService, CompanyService>();
-builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
-builder.Services.AddScoped<IUCAFCommandRepository, UCAFCommandRepository>();
-builder.Services.AddScoped<IUCAFQueryRepository, UCAFQueryRepository>();
-builder.Services.AddScoped<IContextService, ContextService>();
-builder.Services.AddScoped<IUCAFService, UCAFService>();
 builder.Services.AddScoped<CompanyDbContext>();
-
-builder.Services.AddMediatR(configuration =>
-{
-    configuration.RegisterServicesFromAssembly(typeof(OnlineMuhasebeServer.Application.AssemblyReference).Assembly);
-});
-
-builder.Services.AddAutoMapper(typeof(OnlineMuhasebeServer.Persistance.AssemblyReference).Assembly);
-
-builder.Services.AddControllers()
-    .AddApplicationPart(typeof(OnlineMuhasebeServer.Presentation.AssemblyReference).Assembly);
-
-
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen(setup =>
-{
-    var jwtSecuritySheme = new OpenApiSecurityScheme
-    {
-        BearerFormat = "JWT",
-        Name = "JWT Authentication",
-        In = ParameterLocation.Header,
-        Type = SecuritySchemeType.Http,
-        Scheme = JwtBearerDefaults.AuthenticationScheme,
-        Description = "Put **_ONLY_** yourt JWT Bearer token on textbox below!",
-
-        Reference = new OpenApiReference
-        {
-            Id = JwtBearerDefaults.AuthenticationScheme,
-            Type = ReferenceType.SecurityScheme
-        }
-    };
-
-    setup.AddSecurityDefinition(jwtSecuritySheme.Reference.Id, jwtSecuritySheme);
-
-    setup.AddSecurityRequirement(new OpenApiSecurityRequirement
-                {
-                    { jwtSecuritySheme, Array.Empty<string>() }
-                });
-});
-
 
 var app = builder.Build();
 
@@ -79,8 +22,25 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+app.UseAuthentication();
+
 app.UseAuthorization();
 
 app.MapControllers();
+
+using(var scoped = app.Services.CreateScope())
+{
+    var userManager = scoped.ServiceProvider.GetRequiredService<UserManager<AppUser>>();
+    if (!userManager.Users.Any())
+    {
+        userManager.CreateAsync(new AppUser
+        {
+            UserName = "tsaydam",
+            Email = "tanersaydam@gmail.com",
+            Id = Guid.NewGuid().ToString(),
+            FirstNameLastName = "Taner Saydam"
+        }, "Password123*").Wait();
+    }
+}
 
 app.Run();
