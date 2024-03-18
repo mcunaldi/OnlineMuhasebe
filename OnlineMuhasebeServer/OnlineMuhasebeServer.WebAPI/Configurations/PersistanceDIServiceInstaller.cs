@@ -21,6 +21,7 @@ public class PersistanceDIServiceInstaller : IServiceInstaller
         services.AddScoped<ICompanyService, CompanyService>();
         services.AddScoped<IContextService, ContextService>();
         services.AddScoped<IUCAFService, UCAFService>();
+        services.AddScoped<IRoleService, RoleService>();
         #endregion
 
         #region Repositories

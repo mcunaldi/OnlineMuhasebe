@@ -3,84 +3,104 @@
   "WorkspaceRootPath": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B10F067D-340F-4144-9044-8624ACF63DC3}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\users\\w10\\desktop\\github\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\abstractions\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B10F067D-340F-4144-9044-8624ACF63DC3}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\abstractions\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B10F067D-340F-4144-9044-8624ACF63DC3}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\users\\w10\\desktop\\github\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\rolefetures\\queries\\getallroles\\getallroleshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10F067D-340F-4144-9044-8624ACF63DC3}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\rolefetures\\queries\\getallroles\\getallroleshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B10F067D-340F-4144-9044-8624ACF63DC3}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\users\\w10\\desktop\\github\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\appuserfeatures\\login\\loginhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B10F067D-340F-4144-9044-8624ACF63DC3}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\appuserfeatures\\login\\loginhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{05B48A94-EC4C-400B-BAE4-A79D1F93E988}|OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj|c:\\users\\w10\\desktop\\github\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.persistance\\services\\appservices\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B48A94-EC4C-400B-BAE4-A79D1F93E988}|OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj|solutionrelative:onlinemuhasebeserver.persistance\\services\\appservices\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B10F067D-340F-4144-9044-8624ACF63DC3}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\users\\w10\\desktop\\github\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\appuserfeatures\\login\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B10F067D-340F-4144-9044-8624ACF63DC3}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\appuserfeatures\\login\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B10F067D-340F-4144-9044-8624ACF63DC3}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\users\\w10\\desktop\\github\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\services\\appservice\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10F067D-340F-4144-9044-8624ACF63DC3}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\services\\appservice\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34CEF3E5-A0C6-47D7-802A-8AEB2143C234}|OnlineMuhasebeServer.WebAPI\\OnlineMuhasebeServer.WebAPI.csproj|c:\\users\\w10\\desktop\\github\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34CEF3E5-A0C6-47D7-802A-8AEB2143C234}|OnlineMuhasebeServer.WebAPI\\OnlineMuhasebeServer.WebAPI.csproj|solutionrelative:onlinemuhasebeserver.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B10F067D-340F-4144-9044-8624ACF63DC3}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\users\\w10\\desktop\\github\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\rolefetures\\commands\\updaterole\\updaterolehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10F067D-340F-4144-9044-8624ACF63DC3}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\rolefetures\\commands\\updaterole\\updaterolehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\Migrations\\20240318195047_AppUser-Alan-Ekleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OnlineMuhasebeServer.Persistance\\Migrations\\20240318195047_AppUser-Alan-Ekleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B10F067D-340F-4144-9044-8624ACF63DC3}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\users\\w10\\desktop\\github\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\rolefetures\\commands\\createrole\\createrolehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10F067D-340F-4144-9044-8624ACF63DC3}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\rolefetures\\commands\\createrole\\createrolehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34CEF3E5-A0C6-47D7-802A-8AEB2143C234}|OnlineMuhasebeServer.WebAPI\\OnlineMuhasebeServer.WebAPI.csproj|c:\\users\\w10\\desktop\\github\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.webapi\\configurations\\infrastructurediserviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34CEF3E5-A0C6-47D7-802A-8AEB2143C234}|OnlineMuhasebeServer.WebAPI\\OnlineMuhasebeServer.WebAPI.csproj|solutionrelative:onlinemuhasebeserver.webapi\\configurations\\infrastructurediserviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B10F067D-340F-4144-9044-8624ACF63DC3}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\users\\w10\\desktop\\github\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\rolefetures\\commands\\deleterole\\deleterolehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10F067D-340F-4144-9044-8624ACF63DC3}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\rolefetures\\commands\\deleterole\\deleterolehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05B48A94-EC4C-400B-BAE4-A79D1F93E988}|OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj|c:\\users\\w10\\desktop\\github\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.persistance\\repositories\\queryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05B48A94-EC4C-400B-BAE4-A79D1F93E988}|OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj|solutionrelative:onlinemuhasebeserver.persistance\\repositories\\queryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A95D47E-C1C4-4081-996E-3A95086F60AB}|OnlineMuhasebeServer.Domain\\OnlineMuhasebeServer.Domain.csproj|c:\\users\\w10\\desktop\\github\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.domain\\repositories\\iqueryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A95D47E-C1C4-4081-996E-3A95086F60AB}|OnlineMuhasebeServer.Domain\\OnlineMuhasebeServer.Domain.csproj|solutionrelative:onlinemuhasebeserver.domain\\repositories\\iqueryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C5FB811-4DD0-47D6-97EB-814E51B8A1E0}|OnlineMuhasebeServer.Presentation\\OnlineMuhasebeServer.Presentation.csproj|c:\\users\\w10\\desktop\\github\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.presentation\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C5FB811-4DD0-47D6-97EB-814E51B8A1E0}|OnlineMuhasebeServer.Presentation\\OnlineMuhasebeServer.Presentation.csproj|solutionrelative:onlinemuhasebeserver.presentation\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B10F067D-340F-4144-9044-8624ACF63DC3}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\users\\w10\\desktop\\github\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\appuserfeatures\\login\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B10F067D-340F-4144-9044-8624ACF63DC3}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\appuserfeatures\\login\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23500A18-E157-4971-9A83-313C0BEE566F}|OnlineMuhasebeServer.Infrastructure\\OnlineMuhasebeServer.Infrastructure.csproj|c:\\users\\w10\\desktop\\github\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.infrastructure\\authentication\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23500A18-E157-4971-9A83-313C0BEE566F}|OnlineMuhasebeServer.Infrastructure\\OnlineMuhasebeServer.Infrastructure.csproj|solutionrelative:onlinemuhasebeserver.infrastructure\\authentication\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A95D47E-C1C4-4081-996E-3A95086F60AB}|OnlineMuhasebeServer.Domain\\OnlineMuhasebeServer.Domain.csproj|c:\\users\\w10\\desktop\\github\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.domain\\appentities\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A95D47E-C1C4-4081-996E-3A95086F60AB}|OnlineMuhasebeServer.Domain\\OnlineMuhasebeServer.Domain.csproj|solutionrelative:onlinemuhasebeserver.domain\\appentities\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34CEF3E5-A0C6-47D7-802A-8AEB2143C234}|OnlineMuhasebeServer.WebAPI\\OnlineMuhasebeServer.WebAPI.csproj|c:\\users\\w10\\desktop\\github\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.webapi\\optionssetup\\jwtbeareroptionssetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34CEF3E5-A0C6-47D7-802A-8AEB2143C234}|OnlineMuhasebeServer.WebAPI\\OnlineMuhasebeServer.WebAPI.csproj|solutionrelative:onlinemuhasebeserver.webapi\\optionssetup\\jwtbeareroptionssetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C5FB811-4DD0-47D6-97EB-814E51B8A1E0}|OnlineMuhasebeServer.Presentation\\OnlineMuhasebeServer.Presentation.csproj|c:\\users\\w10\\desktop\\github\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.presentation\\controller\\ucafscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C5FB811-4DD0-47D6-97EB-814E51B8A1E0}|OnlineMuhasebeServer.Presentation\\OnlineMuhasebeServer.Presentation.csproj|solutionrelative:onlinemuhasebeserver.presentation\\controller\\ucafscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A95D47E-C1C4-4081-996E-3A95086F60AB}|OnlineMuhasebeServer.Domain\\OnlineMuhasebeServer.Domain.csproj|c:\\users\\w10\\desktop\\github\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.domain\\companyentities\\uniformchartofaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A95D47E-C1C4-4081-996E-3A95086F60AB}|OnlineMuhasebeServer.Domain\\OnlineMuhasebeServer.Domain.csproj|solutionrelative:onlinemuhasebeserver.domain\\companyentities\\uniformchartofaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34CEF3E5-A0C6-47D7-802A-8AEB2143C234}|OnlineMuhasebeServer.WebAPI\\OnlineMuhasebeServer.WebAPI.csproj|c:\\users\\w10\\desktop\\github\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.webapi\\configurations\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34CEF3E5-A0C6-47D7-802A-8AEB2143C234}|OnlineMuhasebeServer.WebAPI\\OnlineMuhasebeServer.WebAPI.csproj|solutionrelative:onlinemuhasebeserver.webapi\\configurations\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B10F067D-340F-4144-9044-8624ACF63DC3}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\users\\w10\\desktop\\github\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\rolefetures\\commands\\deleterole\\deleterolerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10F067D-340F-4144-9044-8624ACF63DC3}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\rolefetures\\commands\\deleterole\\deleterolerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{34CEF3E5-A0C6-47D7-802A-8AEB2143C234}|OnlineMuhasebeServer.WebAPI\\OnlineMuhasebeServer.WebAPI.csproj|c:\\users\\w10\\desktop\\github\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.webapi\\configurations\\persistancediserviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34CEF3E5-A0C6-47D7-802A-8AEB2143C234}|OnlineMuhasebeServer.WebAPI\\OnlineMuhasebeServer.WebAPI.csproj|solutionrelative:onlinemuhasebeserver.webapi\\configurations\\persistancediserviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34CEF3E5-A0C6-47D7-802A-8AEB2143C234}|OnlineMuhasebeServer.WebAPI\\OnlineMuhasebeServer.WebAPI.csproj|c:\\users\\w10\\desktop\\github\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.webapi\\configurations\\presentationserviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34CEF3E5-A0C6-47D7-802A-8AEB2143C234}|OnlineMuhasebeServer.WebAPI\\OnlineMuhasebeServer.WebAPI.csproj|solutionrelative:onlinemuhasebeserver.webapi\\configurations\\presentationserviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{05B48A94-EC4C-400B-BAE4-A79D1F93E988}|OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj|c:\\users\\w10\\desktop\\github\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.persistance\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B48A94-EC4C-400B-BAE4-A79D1F93E988}|OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj|solutionrelative:onlinemuhasebeserver.persistance\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34CEF3E5-A0C6-47D7-802A-8AEB2143C234}|OnlineMuhasebeServer.WebAPI\\OnlineMuhasebeServer.WebAPI.csproj|c:\\users\\w10\\desktop\\github\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.webapi\\configurations\\persistanceserviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34CEF3E5-A0C6-47D7-802A-8AEB2143C234}|OnlineMuhasebeServer.WebAPI\\OnlineMuhasebeServer.WebAPI.csproj|solutionrelative:onlinemuhasebeserver.webapi\\configurations\\persistanceserviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C5FB811-4DD0-47D6-97EB-814E51B8A1E0}|OnlineMuhasebeServer.Presentation\\OnlineMuhasebeServer.Presentation.csproj|c:\\users\\w10\\desktop\\github\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.presentation\\controller\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C5FB811-4DD0-47D6-97EB-814E51B8A1E0}|OnlineMuhasebeServer.Presentation\\OnlineMuhasebeServer.Presentation.csproj|solutionrelative:onlinemuhasebeserver.presentation\\controller\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34CEF3E5-A0C6-47D7-802A-8AEB2143C234}|OnlineMuhasebeServer.WebAPI\\OnlineMuhasebeServer.WebAPI.csproj|c:\\users\\w10\\desktop\\github\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.webapi\\configurations\\applicationserviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34CEF3E5-A0C6-47D7-802A-8AEB2143C234}|OnlineMuhasebeServer.WebAPI\\OnlineMuhasebeServer.WebAPI.csproj|solutionrelative:onlinemuhasebeserver.webapi\\configurations\\applicationserviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B10F067D-340F-4144-9044-8624ACF63DC3}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\users\\w10\\desktop\\github\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\rolefetures\\commands\\deleterole\\deleteroleresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10F067D-340F-4144-9044-8624ACF63DC3}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\rolefetures\\commands\\deleterole\\deleteroleresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C5FB811-4DD0-47D6-97EB-814E51B8A1E0}|OnlineMuhasebeServer.Presentation\\OnlineMuhasebeServer.Presentation.csproj|c:\\users\\w10\\desktop\\github\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.presentation\\controller\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C5FB811-4DD0-47D6-97EB-814E51B8A1E0}|OnlineMuhasebeServer.Presentation\\OnlineMuhasebeServer.Presentation.csproj|solutionrelative:onlinemuhasebeserver.presentation\\controller\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C5FB811-4DD0-47D6-97EB-814E51B8A1E0}|OnlineMuhasebeServer.Presentation\\OnlineMuhasebeServer.Presentation.csproj|c:\\users\\w10\\desktop\\github\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.presentation\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C5FB811-4DD0-47D6-97EB-814E51B8A1E0}|OnlineMuhasebeServer.Presentation\\OnlineMuhasebeServer.Presentation.csproj|solutionrelative:onlinemuhasebeserver.presentation\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10F067D-340F-4144-9044-8624ACF63DC3}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\users\\w10\\desktop\\github\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\rolefetures\\queries\\getallroles\\getallrolesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10F067D-340F-4144-9044-8624ACF63DC3}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\rolefetures\\queries\\getallroles\\getallrolesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C5FB811-4DD0-47D6-97EB-814E51B8A1E0}|OnlineMuhasebeServer.Presentation\\OnlineMuhasebeServer.Presentation.csproj|c:\\users\\w10\\desktop\\github\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.presentation\\controller\\ucafscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C5FB811-4DD0-47D6-97EB-814E51B8A1E0}|OnlineMuhasebeServer.Presentation\\OnlineMuhasebeServer.Presentation.csproj|solutionrelative:onlinemuhasebeserver.presentation\\controller\\ucafscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10F067D-340F-4144-9044-8624ACF63DC3}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\users\\w10\\desktop\\github\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\rolefetures\\queries\\getallroles\\getallrolesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10F067D-340F-4144-9044-8624ACF63DC3}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\rolefetures\\queries\\getallroles\\getallrolesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10F067D-340F-4144-9044-8624ACF63DC3}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\users\\w10\\desktop\\github\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\rolefetures\\commands\\updaterole\\updateroleresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10F067D-340F-4144-9044-8624ACF63DC3}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\rolefetures\\commands\\updaterole\\updateroleresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10F067D-340F-4144-9044-8624ACF63DC3}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\users\\w10\\desktop\\github\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\rolefetures\\commands\\updaterole\\updaterolerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10F067D-340F-4144-9044-8624ACF63DC3}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\rolefetures\\commands\\updaterole\\updaterolerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\Migrations\\20240318202027_AppRole-Code-Alani-Ekleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OnlineMuhasebeServer.Persistance\\Migrations\\20240318202027_AppRole-Code-Alani-Ekleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10F067D-340F-4144-9044-8624ACF63DC3}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\users\\w10\\desktop\\github\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\rolefetures\\commands\\createrole\\createrolerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10F067D-340F-4144-9044-8624ACF63DC3}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\rolefetures\\commands\\createrole\\createrolerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A95D47E-C1C4-4081-996E-3A95086F60AB}|OnlineMuhasebeServer.Domain\\OnlineMuhasebeServer.Domain.csproj|c:\\users\\w10\\desktop\\github\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.domain\\appentities\\identity\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A95D47E-C1C4-4081-996E-3A95086F60AB}|OnlineMuhasebeServer.Domain\\OnlineMuhasebeServer.Domain.csproj|solutionrelative:onlinemuhasebeserver.domain\\appentities\\identity\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10F067D-340F-4144-9044-8624ACF63DC3}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\users\\w10\\desktop\\github\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\rolefetures\\commands\\createrole\\createroleresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10F067D-340F-4144-9044-8624ACF63DC3}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\rolefetures\\commands\\createrole\\createroleresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\Migrations\\20240318200354_Clear-IdentityTable2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OnlineMuhasebeServer.Persistance\\Migrations\\20240318200354_Clear-IdentityTable2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B48A94-EC4C-400B-BAE4-A79D1F93E988}|OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj|c:\\users\\w10\\desktop\\github\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.persistance\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B48A94-EC4C-400B-BAE4-A79D1F93E988}|OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj|solutionrelative:onlinemuhasebeserver.persistance\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\Migrations\\20240318200204_Clear-IdentityTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OnlineMuhasebeServer.Persistance\\Migrations\\20240318200204_Clear-IdentityTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,266 +110,335 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 9,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20240318195047_AppUser-Alan-Ekleme.cs",
-              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\Migrations\\20240318195047_AppUser-Alan-Ekleme.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Persistance\\Migrations\\20240318195047_AppUser-Alan-Ekleme.cs",
-              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\Migrations\\20240318195047_AppUser-Alan-Ekleme.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.Persistance\\Migrations\\20240318195047_AppUser-Alan-Ekleme.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwBAAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T19:50:47.757Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "InfrastructureDIServiceInstaller.cs",
-              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.WebAPI\\Configurations\\InfrastructureDIServiceInstaller.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.WebAPI\\Configurations\\InfrastructureDIServiceInstaller.cs",
-              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.WebAPI\\Configurations\\InfrastructureDIServiceInstaller.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.WebAPI\\Configurations\\InfrastructureDIServiceInstaller.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T19:48:55.093Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LoginHandler.cs",
-              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AppUserFeatures\\Login\\LoginHandler.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AppUserFeatures\\Login\\LoginHandler.cs",
-              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AppUserFeatures\\Login\\LoginHandler.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AppUserFeatures\\Login\\LoginHandler.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAgwCQAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T19:39:33.833Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "LoginResponse.cs",
-              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AppUserFeatures\\Login\\LoginResponse.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AppUserFeatures\\Login\\LoginResponse.cs",
-              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AppUserFeatures\\Login\\LoginResponse.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AppUserFeatures\\Login\\LoginResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T19:38:00.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginRequest.cs",
-              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AppUserFeatures\\Login\\LoginRequest.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AppUserFeatures\\Login\\LoginRequest.cs",
-              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AppUserFeatures\\Login\\LoginRequest.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AppUserFeatures\\Login\\LoginRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T19:36:58.852Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Domain\\AppEntities\\Identity\\AppUser.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Domain\\AppEntities\\Identity\\AppUser.cs",
-              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Domain\\AppEntities\\Identity\\AppUser.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.Domain\\AppEntities\\Identity\\AppUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T19:29:45.079Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "JwtProvider.cs",
-              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Infrastructure\\Authentication\\JwtProvider.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Infrastructure\\Authentication\\JwtProvider.cs",
-              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Infrastructure\\Authentication\\JwtProvider.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.Infrastructure\\Authentication\\JwtProvider.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAAA4AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T19:23:55.577Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IJwtProvider.cs",
-              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Abstractions\\IJwtProvider.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Abstractions\\IJwtProvider.cs",
-              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Abstractions\\IJwtProvider.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Abstractions\\IJwtProvider.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T19:22:22.551Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.WebAPI\\Program.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.WebAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.WebAPI\\Program.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.WebAPI\\Program.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAAB0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T18:35:24.582Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Presentation\\Controller\\AuthController.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Presentation\\Controller\\AuthController.cs",
-              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Presentation\\Controller\\AuthController.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.Presentation\\Controller\\AuthController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T19:45:31.816Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "IQueryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Domain\\Repositories\\IQueryRepository.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Domain\\Repositories\\IQueryRepository.cs",
-              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Domain\\Repositories\\IQueryRepository.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.Domain\\Repositories\\IQueryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T18:57:43.407Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "JwtBearerOptionsSetup.cs",
-              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.WebAPI\\OptionsSetup\\JwtBearerOptionsSetup.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.WebAPI\\OptionsSetup\\JwtBearerOptionsSetup.cs",
-              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.WebAPI\\OptionsSetup\\JwtBearerOptionsSetup.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.WebAPI\\OptionsSetup\\JwtBearerOptionsSetup.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T19:14:00.275Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "QueryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\Repositories\\QueryRepository.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Persistance\\Repositories\\QueryRepository.cs",
-              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\Repositories\\QueryRepository.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.Persistance\\Repositories\\QueryRepository.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAowCkAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T19:46:51.057Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "UCAFsController.cs",
-              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Presentation\\Controller\\UCAFsController.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Presentation\\Controller\\UCAFsController.cs",
-              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Presentation\\Controller\\UCAFsController.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.Presentation\\Controller\\UCAFsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T18:55:04.852Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "UniformChartOfAccount.cs",
-              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Domain\\CompanyEntities\\UniformChartOfAccount.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Domain\\CompanyEntities\\UniformChartOfAccount.cs",
-              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Domain\\CompanyEntities\\UniformChartOfAccount.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.Domain\\CompanyEntities\\UniformChartOfAccount.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T18:54:24.937Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.WebAPI\\Configurations\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.WebAPI\\Configurations\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.WebAPI\\Configurations\\DependencyInjection.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.WebAPI\\Configurations\\DependencyInjection.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAcwBEAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T18:46:48.716Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "PresentationServiceInstaller.cs",
-              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.WebAPI\\Configurations\\PresentationServiceInstaller.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.WebAPI\\Configurations\\PresentationServiceInstaller.cs",
-              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.WebAPI\\Configurations\\PresentationServiceInstaller.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.WebAPI\\Configurations\\PresentationServiceInstaller.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBwAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T18:44:45.63Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ApplicationServiceInstaller.cs",
-              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.WebAPI\\Configurations\\ApplicationServiceInstaller.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.WebAPI\\Configurations\\ApplicationServiceInstaller.cs",
-              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.WebAPI\\Configurations\\ApplicationServiceInstaller.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.WebAPI\\Configurations\\ApplicationServiceInstaller.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T18:43:30.109Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "PersistanceServiceInstaller.cs",
-              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.WebAPI\\Configurations\\PersistanceServiceInstaller.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.WebAPI\\Configurations\\PersistanceServiceInstaller.cs",
-              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.WebAPI\\Configurations\\PersistanceServiceInstaller.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.WebAPI\\Configurations\\PersistanceServiceInstaller.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T18:43:03.314Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
               "Title": "PersistanceDIServiceInstaller.cs",
               "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.WebAPI\\Configurations\\PersistanceDIServiceInstaller.cs",
               "RelativeDocumentMoniker": "OnlineMuhasebeServer.WebAPI\\Configurations\\PersistanceDIServiceInstaller.cs",
               "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.WebAPI\\Configurations\\PersistanceDIServiceInstaller.cs",
               "RelativeToolTip": "OnlineMuhasebeServer.WebAPI\\Configurations\\PersistanceDIServiceInstaller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T21:26:25.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Persistance\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Persistance\\Mapping\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T21:12:48.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\Services\\AppServices\\RoleService.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Persistance\\Services\\AppServices\\RoleService.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\Services\\AppServices\\RoleService.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Persistance\\Services\\AppServices\\RoleService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwBwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T21:09:49.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRoleService.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Services\\AppService\\IRoleService.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Services\\AppService\\IRoleService.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Services\\AppService\\IRoleService.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Services\\AppService\\IRoleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T21:07:39.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteRoleRequest.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\RoleFetures\\Commands\\DeleteRole\\DeleteRoleRequest.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\RoleFetures\\Commands\\DeleteRole\\DeleteRoleRequest.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\RoleFetures\\Commands\\DeleteRole\\DeleteRoleRequest.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\RoleFetures\\Commands\\DeleteRole\\DeleteRoleRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:44:30.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateRoleHandler.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\RoleFetures\\Commands\\CreateRole\\CreateRoleHandler.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\RoleFetures\\Commands\\CreateRole\\CreateRoleHandler.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\RoleFetures\\Commands\\CreateRole\\CreateRoleHandler.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\RoleFetures\\Commands\\CreateRole\\CreateRoleHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:13:22.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeleteRoleHandler.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\RoleFetures\\Commands\\DeleteRole\\DeleteRoleHandler.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\RoleFetures\\Commands\\DeleteRole\\DeleteRoleHandler.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\RoleFetures\\Commands\\DeleteRole\\DeleteRoleHandler.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\RoleFetures\\Commands\\DeleteRole\\DeleteRoleHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:45:19.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateRoleHandler.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\RoleFetures\\Commands\\UpdateRole\\UpdateRoleHandler.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\RoleFetures\\Commands\\UpdateRole\\UpdateRoleHandler.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\RoleFetures\\Commands\\UpdateRole\\UpdateRoleHandler.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\RoleFetures\\Commands\\UpdateRole\\UpdateRoleHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:28:24.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetAllRolesHandler.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\RoleFetures\\Queries\\GetAllRoles\\GetAllRolesHandler.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\RoleFetures\\Queries\\GetAllRoles\\GetAllRolesHandler.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\RoleFetures\\Queries\\GetAllRoles\\GetAllRolesHandler.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\RoleFetures\\Queries\\GetAllRoles\\GetAllRolesHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:24:03.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Presentation\\Controller\\RolesController.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Presentation\\Controller\\RolesController.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Presentation\\Controller\\RolesController.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Presentation\\Controller\\RolesController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAYwCUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:16:24.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CompaniesController.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Presentation\\Controller\\CompaniesController.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Presentation\\Controller\\CompaniesController.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Presentation\\Controller\\CompaniesController.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Presentation\\Controller\\CompaniesController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwBcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:49:58.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Presentation\\Controller\\AuthController.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Presentation\\Controller\\AuthController.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Presentation\\Controller\\AuthController.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Presentation\\Controller\\AuthController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T18:43:01.609Z",
+              "WhenOpened": "2024-03-18T20:25:10.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetAllRolesRequest.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\RoleFetures\\Queries\\GetAllRoles\\GetAllRolesRequest.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\RoleFetures\\Queries\\GetAllRoles\\GetAllRolesRequest.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\RoleFetures\\Queries\\GetAllRoles\\GetAllRolesRequest.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\RoleFetures\\Queries\\GetAllRoles\\GetAllRolesRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:22:36.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeleteRoleResponse.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\RoleFetures\\Commands\\DeleteRole\\DeleteRoleResponse.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\RoleFetures\\Commands\\DeleteRole\\DeleteRoleResponse.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\RoleFetures\\Commands\\DeleteRole\\DeleteRoleResponse.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\RoleFetures\\Commands\\DeleteRole\\DeleteRoleResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:44:54.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UCAFsController.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Presentation\\Controller\\UCAFsController.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Presentation\\Controller\\UCAFsController.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Presentation\\Controller\\UCAFsController.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Presentation\\Controller\\UCAFsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:49:58.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateRoleResponse.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\RoleFetures\\Commands\\UpdateRole\\UpdateRoleResponse.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\RoleFetures\\Commands\\UpdateRole\\UpdateRoleResponse.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\RoleFetures\\Commands\\UpdateRole\\UpdateRoleResponse.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\RoleFetures\\Commands\\UpdateRole\\UpdateRoleResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:27:50.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UpdateRoleRequest.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\RoleFetures\\Commands\\UpdateRole\\UpdateRoleRequest.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\RoleFetures\\Commands\\UpdateRole\\UpdateRoleRequest.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\RoleFetures\\Commands\\UpdateRole\\UpdateRoleRequest.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\RoleFetures\\Commands\\UpdateRole\\UpdateRoleRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:27:09.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetAllRolesResponse.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\RoleFetures\\Queries\\GetAllRoles\\GetAllRolesResponse.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\RoleFetures\\Queries\\GetAllRoles\\GetAllRolesResponse.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\RoleFetures\\Queries\\GetAllRoles\\GetAllRolesResponse.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\RoleFetures\\Queries\\GetAllRoles\\GetAllRolesResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:23:19.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240318202027_AppRole-Code-Alani-Ekleme.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\Migrations\\20240318202027_AppRole-Code-Alani-Ekleme.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Persistance\\Migrations\\20240318202027_AppRole-Code-Alani-Ekleme.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\Migrations\\20240318202027_AppRole-Code-Alani-Ekleme.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Persistance\\Migrations\\20240318202027_AppRole-Code-Alani-Ekleme.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:20:27.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppRole.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Domain\\AppEntities\\Identity\\AppRole.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Domain\\AppEntities\\Identity\\AppRole.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Domain\\AppEntities\\Identity\\AppRole.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Domain\\AppEntities\\Identity\\AppRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:18:24.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateRoleResponse.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\RoleFetures\\Commands\\CreateRole\\CreateRoleResponse.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\RoleFetures\\Commands\\CreateRole\\CreateRoleResponse.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\RoleFetures\\Commands\\CreateRole\\CreateRoleResponse.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\RoleFetures\\Commands\\CreateRole\\CreateRoleResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:12:38.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateRoleRequest.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\RoleFetures\\Commands\\CreateRole\\CreateRoleRequest.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\RoleFetures\\Commands\\CreateRole\\CreateRoleRequest.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\RoleFetures\\Commands\\CreateRole\\CreateRoleRequest.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\RoleFetures\\Commands\\CreateRole\\CreateRoleRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:11:47.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240318200354_Clear-IdentityTable2.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\Migrations\\20240318200354_Clear-IdentityTable2.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Persistance\\Migrations\\20240318200354_Clear-IdentityTable2.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\Migrations\\20240318200354_Clear-IdentityTable2.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Persistance\\Migrations\\20240318200354_Clear-IdentityTable2.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAADwvyMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:03:55.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240318200204_Clear-IdentityTable.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\Migrations\\20240318200204_Clear-IdentityTable.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Persistance\\Migrations\\20240318200204_Clear-IdentityTable.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\Migrations\\20240318200204_Clear-IdentityTable.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Persistance\\Migrations\\20240318200204_Clear-IdentityTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:02:04.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Persistance\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Persistance\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T19:59:58.222Z",
               "EditorCaption": ""
             }
           ]

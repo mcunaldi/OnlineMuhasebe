@@ -42,6 +42,64 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "OnlineMuhasebeServer.Presentation.Controller.RolesController",
+    "Method": "CreateRole",
+    "RelativePath": "api/Roles/CreateRole",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "OnlineMuhasebeServer.Application.Features.AppFeatures.RoleFetures.Commands.CreateRole.CreateRoleRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnlineMuhasebeServer.Presentation.Controller.RolesController",
+    "Method": "DeleteRole",
+    "RelativePath": "api/Roles/DeleteRole/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnlineMuhasebeServer.Presentation.Controller.RolesController",
+    "Method": "GetAllRoles",
+    "RelativePath": "api/Roles/GetAllRoles",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnlineMuhasebeServer.Presentation.Controller.RolesController",
+    "Method": "UpdateRole",
+    "RelativePath": "api/Roles/UpdateRole",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "OnlineMuhasebeServer.Application.Features.AppFeatures.RoleFetures.Commands.UpdateRole.UpdateRoleRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "OnlineMuhasebeServer.Presentation.Controller.UCAFsController",
     "Method": "CreateUCAF",
     "RelativePath": "api/UCAFs/CreateUCAF",
