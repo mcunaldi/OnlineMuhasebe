@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "aexOre3ChFDEXIjMPHPc3E2pUtTpGyUyeCp0dnHtFsshjXfqjC2Yj7TWQI0SMb47vfWZ3U3vv8fzjVxpb3P/bQ==",
+  "dgSpecHash": "2NOsVu/qwYdd2b/7ysbLjorLnyNLt2ITubrTRgYaJfgFpVCbSy/HQ9507RBMCKZIlSp+qOMkfDWXGRvSWr9BSQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\W10\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\W10\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
+    "C:\\Users\\W10\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
     "C:\\Users\\W10\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
     "C:\\Users\\W10\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\W10\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.3\\microsoft.aspnetcore.cryptography.internal.8.0.3.nupkg.sha512",

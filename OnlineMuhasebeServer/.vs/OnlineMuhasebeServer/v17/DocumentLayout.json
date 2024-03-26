@@ -1,12 +1,139 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B10F067D-340F-4144-9044-8624ACF63DC3}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\users\\w10\\desktop\\github\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\appuserfeatures\\login\\logincommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10F067D-340F-4144-9044-8624ACF63DC3}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\appuserfeatures\\login\\logincommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CEF3E5-A0C6-47D7-802A-8AEB2143C234}|OnlineMuhasebeServer.WebAPI\\OnlineMuhasebeServer.WebAPI.csproj|c:\\users\\w10\\desktop\\github\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.webapi\\middleware\\errorresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34CEF3E5-A0C6-47D7-802A-8AEB2143C234}|OnlineMuhasebeServer.WebAPI\\OnlineMuhasebeServer.WebAPI.csproj|solutionrelative:onlinemuhasebeserver.webapi\\middleware\\errorresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C5FB811-4DD0-47D6-97EB-814E51B8A1E0}|OnlineMuhasebeServer.Presentation\\OnlineMuhasebeServer.Presentation.csproj|c:\\users\\w10\\desktop\\github\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.presentation\\controller\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C5FB811-4DD0-47D6-97EB-814E51B8A1E0}|OnlineMuhasebeServer.Presentation\\OnlineMuhasebeServer.Presentation.csproj|solutionrelative:onlinemuhasebeserver.presentation\\controller\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B48A94-EC4C-400B-BAE4-A79D1F93E988}|OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj|c:\\users\\w10\\desktop\\github\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.persistance\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B48A94-EC4C-400B-BAE4-A79D1F93E988}|OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj|solutionrelative:onlinemuhasebeserver.persistance\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10F067D-340F-4144-9044-8624ACF63DC3}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\users\\w10\\desktop\\github\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\appuserfeatures\\login\\logincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10F067D-340F-4144-9044-8624ACF63DC3}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\appuserfeatures\\login\\logincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10F067D-340F-4144-9044-8624ACF63DC3}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\users\\w10\\desktop\\github\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\behavior\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10F067D-340F-4144-9044-8624ACF63DC3}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\behavior\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CEF3E5-A0C6-47D7-802A-8AEB2143C234}|OnlineMuhasebeServer.WebAPI\\OnlineMuhasebeServer.WebAPI.csproj|c:\\users\\w10\\desktop\\github\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.webapi\\configurations\\applicationserviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34CEF3E5-A0C6-47D7-802A-8AEB2143C234}|OnlineMuhasebeServer.WebAPI\\OnlineMuhasebeServer.WebAPI.csproj|solutionrelative:onlinemuhasebeserver.webapi\\configurations\\applicationserviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorResult.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.WebAPI\\Middleware\\ErrorResult.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.WebAPI\\Middleware\\ErrorResult.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.WebAPI\\Middleware\\ErrorResult.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.WebAPI\\Middleware\\ErrorResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T02:45:56.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Presentation\\Controller\\RolesController.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Presentation\\Controller\\RolesController.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Presentation\\Controller\\RolesController.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Presentation\\Controller\\RolesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T02:44:01.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Persistance\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Persistance\\Mapping\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T02:42:37.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AppUserFeatures\\Login\\LoginCommandHandler.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AppUserFeatures\\Login\\LoginCommandHandler.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AppUserFeatures\\Login\\LoginCommandHandler.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AppUserFeatures\\Login\\LoginCommandHandler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T02:40:23.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AppUserFeatures\\Login\\LoginCommandValidator.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AppUserFeatures\\Login\\LoginCommandValidator.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AppUserFeatures\\Login\\LoginCommandValidator.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AppUserFeatures\\Login\\LoginCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T02:37:06.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Behavior\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Behavior\\ValidationBehavior.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Behavior\\ValidationBehavior.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Behavior\\ValidationBehavior.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T02:28:25.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationServiceInstaller.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.WebAPI\\Configurations\\ApplicationServiceInstaller.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.WebAPI\\Configurations\\ApplicationServiceInstaller.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.WebAPI\\Configurations\\ApplicationServiceInstaller.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.WebAPI\\Configurations\\ApplicationServiceInstaller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T02:40:51.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

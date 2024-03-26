@@ -9,7 +9,7 @@
     "Parameters": [
       {
         "Name": "request",
-        "Type": "OnlineMuhasebeServer.Application.Features.AppFeatures.AppUserFeatures.Login.LoginRequest",
+        "Type": "OnlineMuhasebeServer.Application.Features.AppFeatures.AppUserFeatures.Login.LoginCommand",
         "IsRequired": true
       }
     ],
@@ -25,7 +25,7 @@
     "Parameters": [
       {
         "Name": "request",
-        "Type": "OnlineMuhasebeServer.Application.Features.AppFeatures.CompanyFeatures.Command.CreateCompany.CreateCompanyRequest",
+        "Type": "OnlineMuhasebeServer.Application.Features.AppFeatures.CompanyFeatures.Command.CreateCompany.CreateCompanyCommand",
         "IsRequired": true
       }
     ],
@@ -51,7 +51,7 @@
     "Parameters": [
       {
         "Name": "request",
-        "Type": "OnlineMuhasebeServer.Application.Features.AppFeatures.RoleFetures.Commands.CreateRole.CreateRoleRequest",
+        "Type": "OnlineMuhasebeServer.Application.Features.AppFeatures.RoleFetures.Commands.CreateRole.CreateRoleCommand",
         "IsRequired": true
       }
     ],
@@ -93,7 +93,7 @@
     "Parameters": [
       {
         "Name": "request",
-        "Type": "OnlineMuhasebeServer.Application.Features.AppFeatures.RoleFetures.Commands.UpdateRole.UpdateRoleRequest",
+        "Type": "OnlineMuhasebeServer.Application.Features.AppFeatures.RoleFetures.Commands.UpdateRole.UpdateRoleCommand",
         "IsRequired": true
       }
     ],
@@ -109,7 +109,7 @@
     "Parameters": [
       {
         "Name": "request",
-        "Type": "OnlineMuhasebeServer.Application.Features.CompanyFeatures.UCAFFeatures.Command.CreateUCAF.CreateUCAFRequest",
+        "Type": "OnlineMuhasebeServer.Application.Features.CompanyFeatures.UCAFFeatures.Command.CreateUCAF.CreateUCAFCommand",
         "IsRequired": true
       }
     ],

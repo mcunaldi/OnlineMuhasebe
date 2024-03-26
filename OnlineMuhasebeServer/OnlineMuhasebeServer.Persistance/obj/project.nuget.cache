@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "q8CevmlviZTcnB6IpwbkiCo8r4JNEmFQYaNpTfXYp513tEEYcDSfsABzsOo3qWJDsSSv2VpsBzRPUu4TD3Kc4w==",
+  "dgSpecHash": "pYh7axIfN5M89kJ6shnxkDZdHMymPr9o+ZcxYgoOJtXaMQg9e0i6Nt4CXs88Nn3xcY+40zNf06VtDA3vJCoKXA==",
   "success": true,
   "projectFilePath": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\W10\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\W10\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\W10\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
+    "C:\\Users\\W10\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
     "C:\\Users\\W10\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\W10\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
     "C:\\Users\\W10\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

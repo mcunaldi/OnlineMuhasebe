@@ -12,7 +12,7 @@ public class MappingProfile : Profile
     public MappingProfile()
     {
         CreateMap<CreateCompanyCommand, Company>();
-        CreateMap<CreateUCAFRequest, UniformChartOfAccount>();
+        CreateMap<CreateUCAFCommand, UniformChartOfAccount>();
         CreateMap<CreateRoleCommand, AppRole>();
     }
 }

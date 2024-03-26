@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OnlineMuhasebeServer.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+744ac9c946b57b916aea5e634dc6a7d4872d0cab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b536a99fb96912c7fe2dab42d1675d776595d59")]
 [assembly: System.Reflection.AssemblyProductAttribute("OnlineMuhasebeServer.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OnlineMuhasebeServer.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

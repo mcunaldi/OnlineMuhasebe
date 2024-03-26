@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "lXsMnvllO7zYmjgDrO7yGeU0oaaEDAv9sWWbvarydHGL6wO2o0pJ5yc1/vn+2t6sIUkYjnv7w6mVV/ZMvJaxLg==",
+  "dgSpecHash": "37B6a6+MIdCc5lTIJY37nWZoawP5JVDnZMc6NjwR7XaNfdJS5TVIvSTc0A5fceN/6IGlnMfbYNQj6C5xznHTew==",
   "success": true,
   "projectFilePath": "C:\\Users\\W10\\Desktop\\GITHUB\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Presentation\\OnlineMuhasebeServer.Presentation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\W10\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\W10\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
+    "C:\\Users\\W10\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
     "C:\\Users\\W10\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
     "C:\\Users\\W10\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\W10\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
