@@ -11,7 +11,7 @@ public sealed class RoleService(
     RoleManager<AppRole> roleManager,
     IMapper mapper) : IRoleService
 {
-    public async Task AddAsync(CreateRoleRequest request)
+    public async Task AddAsync(CreateRoleCommand request)
     {
         AppRole role = mapper.Map<AppRole>(request);
         role.Id = Guid.NewGuid().ToString();

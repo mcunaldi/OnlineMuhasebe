@@ -14,7 +14,7 @@ public sealed class UCAFService(
     IUnitOfWork unitOfWork,
     IMapper mapper) : IUCAFService
 {
-    public async Task CreateUCAFAsync(CreateUCAFRequest request)
+    public async Task CreateUCAFAsync(CreateUCAFCommand request)
     {
         context = (CompanyDbContext)contextService.CreateDbContextInstance(request.CompanyId);
         commandRepository.SetDbContextInstance(context);

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OnlineMuhasebeServer.WebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d0bf57a9780a097adc1c319366c32381fd6f659")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+744ac9c946b57b916aea5e634dc6a7d4872d0cab")]
 [assembly: System.Reflection.AssemblyProductAttribute("OnlineMuhasebeServer.WebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OnlineMuhasebeServer.WebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

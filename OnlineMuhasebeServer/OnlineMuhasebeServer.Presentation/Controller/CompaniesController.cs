@@ -12,17 +12,17 @@ public sealed class CompaniesController : ApiController
     }
 
     [HttpPost]
-    public async Task<IActionResult> Create(CreateCompanyRequest request)
+    public async Task<IActionResult> Create(CreateCompanyCommand request)
     {
-        CreateCompanyResponse response = await _mediator.Send(request);
+        CreateCompanyCommandResponse response = await _mediator.Send(request);
         return Ok(response);
     }
 
     [HttpGet]
     public async Task<IActionResult> MigrateCompanyDataBases()
     {
-        MigrateCompanyDatabasesRequest request = new();
-        MigrateCompanyDatabasesResponse response = await _mediator.Send(request);
+        MigrateCompanyDatabasesCommand request = new();
+        MigrateCompanyDatabasesCommandResponse response = await _mediator.Send(request);
         return Ok(response);
     }
 

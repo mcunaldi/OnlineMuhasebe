@@ -17,7 +17,7 @@ public sealed class CompanyService(
     //daha performanslı olduğundan dolayı kullanıldı.
     //await context.Set<Company>().FirstOrDefault(p=> p.Name == name) de kullanılabilirdi!!
 
-    public async Task CreateCompany(CreateCompanyRequest request)
+    public async Task CreateCompany(CreateCompanyCommand request)
     {
         Company company = mapper.Map<Company>(request);
         company.Id = Guid.NewGuid().ToString();

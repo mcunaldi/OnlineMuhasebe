@@ -154,3 +154,5 @@ C:\Users\W10\Desktop\GITHUB\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeSe
 C:\Users\W10\Desktop\GITHUB\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.WebAPI\obj\Debug\net8.0\OnlineMuhasebeServer.WebAPI.pdb
 C:\Users\W10\Desktop\GITHUB\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.WebAPI\obj\Debug\net8.0\OnlineMuhasebeServer.WebAPI.genruntimeconfig.cache
 C:\Users\W10\Desktop\GITHUB\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.WebAPI\obj\Debug\net8.0\ref\OnlineMuhasebeServer.WebAPI.dll
+C:\Users\W10\Desktop\GITHUB\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.WebAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\W10\Desktop\GITHUB\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.WebAPI\obj\Debug\net8.0\OnlineMuhasebeServer.WebAPI.MvcApplicationPartsAssemblyInfo.cs
