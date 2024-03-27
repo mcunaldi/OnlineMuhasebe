@@ -13,7 +13,7 @@ public sealed class CreateCompanyCommandHandler(ICompanyService companyService) 
             throw new Exception("Bu şirket adı daha önce kullanılmış!");
         }
 
-        await companyService.CreateCompany(request);
+        await companyService.CreateCompany(request, cancellationToken);
         return new();
     }
 }

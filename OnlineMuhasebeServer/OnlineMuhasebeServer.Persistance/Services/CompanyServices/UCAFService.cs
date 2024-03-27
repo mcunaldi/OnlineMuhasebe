@@ -5,6 +5,7 @@ using OnlineMuhasebeServer.Domain;
 using OnlineMuhasebeServer.Domain.CompanyEntities;
 using OnlineMuhasebeServer.Domain.Repositories.UCAFRepositories;
 using OnlineMuhasebeServer.Persistance.Context;
+using System.Threading;
 
 namespace OnlineMuhasebeServer.Persistance.Services.CompanyServices;
 public sealed class UCAFService(
@@ -14,7 +15,7 @@ public sealed class UCAFService(
     IUnitOfWork unitOfWork,
     IMapper mapper) : IUCAFService
 {
-    public async Task CreateUCAFAsync(CreateUCAFCommand request)
+    public async Task CreateUCAFAsync(CreateUCAFCommand request, CancellationToken cancellationToken)
     {
         context = (CompanyDbContext)contextService.CreateDbContextInstance(request.CompanyId);
         commandRepository.SetDbContextInstance(context);
@@ -24,7 +25,7 @@ public sealed class UCAFService(
 
         uniformChartOfAccount.Id = Guid.NewGuid().ToString();
 
-        await commandRepository.AddAsync(uniformChartOfAccount);
-        await unitOfWork.SaveChangesAsync();
+        await commandRepository.AddAsync(uniformChartOfAccount, cancellationToken);
+        await unitOfWork.SaveChangesAsync(cancellationToken);
     }
 }

@@ -6,7 +6,7 @@ internal class CreateUCAFCommandHandler(IUCAFService uCAFService) : ICommandHand
 {
     public async Task<CreateUCAFCommandResponse> Handle(CreateUCAFCommand request, CancellationToken cancellationToken)
     {
-        await uCAFService.CreateUCAFAsync(request);
+        await uCAFService.CreateUCAFAsync(request, cancellationToken);
         return new();
     }
 }

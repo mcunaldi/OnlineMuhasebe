@@ -17,12 +17,12 @@ public sealed class CompanyService(
     //daha performanslı olduğundan dolayı kullanıldı.
     //await context.Set<Company>().FirstOrDefault(p=> p.Name == name) de kullanılabilirdi!!
 
-    public async Task CreateCompany(CreateCompanyCommand request)
+    public async Task CreateCompany(CreateCompanyCommand request, CancellationToken cancellationToken)
     {
         Company company = mapper.Map<Company>(request);
         company.Id = Guid.NewGuid().ToString();
-        await context.Set<Company>().AddAsync(company);
-        await context.SaveChangesAsync();
+        await context.Set<Company>().AddAsync(company, cancellationToken);
+        await context.SaveChangesAsync(cancellationToken);
     }
 
     public async Task<Company?> GetCompanyByName(string name)
@@ -30,7 +30,7 @@ public sealed class CompanyService(
         return await GetCompanyByNameCompiled(context, name);
     }
 
-    public async Task MigrateCompanyDataBases(CancellationToken cancellation = default)
+    public async Task MigrateCompanyDataBases()
     {
         var companies = await context.Set<Company>().ToListAsync();
         foreach (var company in companies)
